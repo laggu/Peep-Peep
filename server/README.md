@@ -7,6 +7,7 @@
 
 ## 빠른 시작
 ```
+cp config/.env.template config/.env
 yarn install
 yarn start
 ```
